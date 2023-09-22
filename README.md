@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm John Uel Mangaba 👋
 
-<!--
-**imueLx/imueLx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on exciting projects that challenge and inspire me.
 
-Here are some ideas to get you started:
+🌱 I'm always learning and exploring new technologies and ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I'm open to collaboration and eager to work with passionate individuals or teams.
+
+⚡ Fun fact: I tried learning web development because I wanted to become an expert in web bug bounty programs. I thought learning how to code first before exploiting things. xD
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imueLx&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imueLx&layout=compact&theme=dracula)
